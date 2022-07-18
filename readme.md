@@ -1,0 +1,1 @@
+![Getting Started](./mail_screenshot.jpg)
